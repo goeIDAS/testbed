@@ -29,7 +29,7 @@ Additional functionality will be supported within or after the OpenID-Wallet-Plu
 ## How to join the OpenID-Wallet-Plugfest remotely?
 To join the **OpenID-Wallet-Plugfest** remotely, you should get in contact with [Detlef Hühnlein at LinkedIn](https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/). 
 There are four calls scheduled within the OpenID-Wallet-Plugfest:
-*	1st Meeting: **23.05.2024, 16:00-17:00 (CEST)**
+*	1st Meeting: **23.05.2024, 11:00-12:00 (CEST)**
 *	2nd Meeting: **23.05.2024, 16:00-17:00 (CEST)**
 *	3rd Meeting: **24.05.2024, 10:00-11:00 (CEST)**
 *	4th Meeting: **24.04.2024, 16:00-17:00 (CEST)**
