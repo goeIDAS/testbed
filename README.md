@@ -48,6 +48,6 @@ Using the eIDAS-Testbed to issue your PID to your wallet consists of the followi
 4) Let your Wallet perform the PID-issuance according to [OpenID4VCI](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) and
 5) Check whether the PID-attestation has been correctly issued to your Wallet.
 
-Please provide feedback with respect to the results of your tests here or within the LinkedIn group.
+Please provide feedback with respect to the results of your tests [here](https://github.com/goeIDAS/testbed/issues) or within the LinkedIn group.
 
 
