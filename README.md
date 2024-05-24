@@ -15,7 +15,7 @@ It currently supports
 * the issuance of a Personal Identity Data (PID) attestation according to the current version of the **[PID-Rulebook](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/latest/annexes/annex-3/annex-3.01-pid-rulebook/)**,
 * with the latest draft of the **[SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/)**-format
 * using the latest draft of [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) 
-(**OpenID4VCI**) using either 
+(**OpenID4VCI**, Draft 13 / Implementers Draft 1) using either 
 * your personal **eIDAS-means**, if you come from
   *  [Austria](https://ec.europa.eu/digital-building-blocks/sites/display/EIDCOMMUNITY/Austria),
   *  [Germany](https://ec.europa.eu/digital-building-blocks/sites/display/EIDCOMMUNITY/Germany),
