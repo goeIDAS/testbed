@@ -45,7 +45,7 @@ include #eIDASTest and [@go_eIDAS Association](https://www.linkedin.com/company/
 ## Successfully tested Wallets so far
 The hopefully growing list of successfully tested Wallets so far is as follows:
 
-### [Talao wallet](#talao) (https://talao.io/)
+### [Talao wallet](#Talao) (https://talao.io/)
 
 #### Successfully tested version(s):
   
