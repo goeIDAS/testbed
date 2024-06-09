@@ -9,6 +9,7 @@ including the [**Open European Health Data Space**](https://github.com/eu-digita
 
 ## What is currently supported with the eIDAS-Testbed? 
 The current functionality and the context of the **[eIDAS-Testbed](https://test.eID.AS)** is outlined in the following figure:
+
 ![eIDAS-Testbed](https://github.com/goeIDAS/testbed/assets/78415390/a40a4412-b248-4d2e-b400-9c89cae6c734)
 
 It currently supports 
