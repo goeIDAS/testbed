@@ -25,19 +25,9 @@ It currently supports
   * [Slovakia](https://ec.europa.eu/digital-building-blocks/sites/display/EIDCOMMUNITY/Slovakia+-+eID+Scheme), or
 * your personal **Test account**, which will be created [upon request](https://www.linkedin.com/in/michael-rauh-0b3218151/), if you come from another region.
 
-Additional functionality will be supported within or after the OpenID-Wallet-Plugfest or [upon request](https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/).
-
-## How to join the OpenID-Wallet-Plugfest remotely?
-To join the **OpenID-Wallet-Plugfest** remotely, you should get in contact with [Detlef Hühnlein at LinkedIn](https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/). 
-There are four calls scheduled within the OpenID-Wallet-Plugfest:
-*	1st Meeting: **23.05.2024, 11:00-12:00 (CEST)**
-*	2nd Meeting: **23.05.2024, 16:00-17:00 (CEST)**
-*	3rd Meeting: **24.05.2024, 10:00-11:00 (CEST)**
-*	4th Meeting: **24.04.2024, 16:00-17:00 (CEST)**
-
-You will receive dial-in information, as soon as  you have [requested participation](https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/). 
-
-Please do not forget to join the LinkedIn-group "eIDAS-Testbed" as well and use this group for discussions within or after the OpenID-Wallet-Plugfest.
+Additional functionality will be supported as soon as there are more Wallets and resources to create comprehensive test specification. 
+Please do not hesitate to [contact us](https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/), if you have any questions, suggestions or if you
+want to contribute to the further development of the community-driven eIDAS-Testbed.
 
 ## How can I use the eIDAS-Testbed?
 Using the eIDAS-Testbed to issue your PID to your wallet consists of the following steps:
@@ -45,10 +35,26 @@ Using the eIDAS-Testbed to issue your PID to your wallet consists of the followi
    * your *eIDAS-means* or via
    * *login* in to your personal test account
 2) Starting your Wallet
-3) Retrieving [OpenID Credential Offer](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html#name-credential-offer) via QR-Code or Link
+3) Retrieving [OpenID Credential Offer](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html#name-credential-offer) via QR-Code (or Link in the future)
 4) Let your Wallet perform the PID-issuance according to [OpenID4VCI](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) and
 5) Check whether the PID-attestation has been correctly issued to your Wallet.
 
-Please provide feedback with respect to the results of your tests [here](https://github.com/goeIDAS/testbed/issues) or within the LinkedIn group.
+Please provide feedback with respect to the results of your tests [here](https://github.com/goeIDAS/testbed/issues) or within LinkedIn. Please make sure to 
+include #eIDASTest and [@go_eIDAS Association](https://www.linkedin.com/company/go-eidas-ev/) or [Detlef Hühnlein](https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/).
 
+## Successfully tested Wallets so far
+The hopefully growing list of successfully tested Wallets so far is as follows:
 
+### [Talao wallet](#talao) (https://talao.io/)
+
+#### Successfully tested version(s):
+  
+* Version 2.6.0 on [Android](https://play.google.com/store/apps/details?id=co.talao.wallet)
+
+#### Guidance for your own tests
+
+1)	Selecting the appropriate language MAY be helpful (…*/Wallet Settings)
+2)	You MUST select …*/Wallet Profiles/OWF Baseline Profile
+3)	Visit https://test.eID.AS and use your eID or [reach out to us for other regions]({https://www.linkedin.com/in/dr-detlef-h%C3%BChnlein-12476439/)
+4)	Click the “Retrieve Offer” button to display the QR code
+5)	Capture the QR code to trigger the issuance of your PID-credential in SD-JWT-format
